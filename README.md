@@ -1,3 +1,3 @@
 # Phython
-Python Class
+# Python Class
 print("Hello wold")
